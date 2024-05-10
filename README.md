@@ -21,7 +21,7 @@ OpenAI Article Summarizer, or "sumz", is a website designed to provide users wit
 ### Installation for Development
 1. Download or Clone this repo by using the command below:
 ```
-   https://github.com/kapilsinghnegi/summarizer.git
+   https://github.com/Vijay3602/aisummarizer_finalyear
 ```
 2. API Tokens <br/>
   a. Go to [RapidAPI Article Extractor and Summarizer](https://rapidapi.com/restyler/api/article-extractor-and-summarizer/) <br/>
